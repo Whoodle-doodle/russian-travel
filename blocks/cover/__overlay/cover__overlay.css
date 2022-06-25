@@ -13,3 +13,19 @@
 .cover:hover .cover__overlay{
     opacity: 0.8;
 }
+
+@media screen and (max-width: 1279px) {
+    .cover__link {
+        min-height: 57.85vw;
+    } 
+}
+@media screen and (max-width: 1024px) {
+    .cover__link {
+        min-height: 62.5vw;
+    } 
+}
+@media screen and (max-width: 320px) {
+    .cover__link {
+        min-height: 200px;
+    } 
+}

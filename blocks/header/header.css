@@ -21,6 +21,7 @@
         max-width: 93.75%;
         margin-left: 24px;
         margin-right: 24px;
+        align-items: center;
     }
   }
   @media screen and (max-width: 320px) {
@@ -28,5 +29,6 @@
         max-width: 90%;
         margin-left: 16px;
         margin-right: 16px;
+        align-items: center;
     }
   }

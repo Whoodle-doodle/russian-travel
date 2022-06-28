@@ -1,7 +1,8 @@
 .lead {
     margin: 0 auto;
     max-width: 984px;
-    margin-top: 48px;
+    margin-top: 56px;
+    padding: 0;
     /*position: relative;
     margin: 0;
     display: flex;
@@ -14,6 +15,7 @@
 @media screen and (max-width: 1024px) {
     .lead {
         width: 90.625%;
+        margin-top: 48px;
     }
 }
 @media screen and (max-width: 768px) {

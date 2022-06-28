@@ -9,9 +9,9 @@
     justify-content: space-between;
   }
 
-  @media screen and (max-width: 1280px) {
+  @media screen and (max-width: 1024px) {
     .header {
-        max-width: 92.5%;
+        max-width: calc(1024px - 48px*2);
     }
   }
   @media screen and (max-width: 768px) {
@@ -19,7 +19,7 @@
         max-width: 93.75%;
         margin-left: 24px;
         margin-right: 24px;
-        align-items: center;
+        /*align-items: center;*/
     }
   }
   @media screen and (max-width: 320px) {
@@ -27,6 +27,6 @@
         max-width: 90%;
         margin-left: 16px;
         margin-right: 16px;
-        align-items: center;
+        margin-top: 16px;
     }
   }

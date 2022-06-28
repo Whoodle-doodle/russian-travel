@@ -1,5 +1,6 @@
 .place__title {
     margin: 0;
+    padding: 0;
     /*margin-bottom: 48px;*/
     margin-bottom: 48px;
     font-size: 72px;
@@ -10,13 +11,11 @@
     .place__title {
         font-size: 42px;
         line-height: 1.1;
-        margin-left: 24px;
+        max-width: 330px;
     }
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 500px) {
     .place__title {
-        font-size: 42px;
-        line-height: 1.1;
         margin-bottom: 32px;
         margin-left: 16px;
     }
@@ -25,7 +24,5 @@
     .place__title {
         font-size: 32px;
         line-height: 1.09;
-        margin-bottom: 32px;
-        margin-left: 16px;
     }
 }

@@ -27,7 +27,7 @@
         margin-right: 24px;*/
     }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 500px) {
     .intro {
         max-width: 90%;
         margin-top: 64px;

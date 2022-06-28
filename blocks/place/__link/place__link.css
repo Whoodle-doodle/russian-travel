@@ -5,8 +5,9 @@
     font-weight: 400;
     color: #FFFFFF;
     text-decoration-line: underline;
+    transition: 0.3s ease;
 }
 
 .place__link:hover {
-    opacity: 0.5;
+    opacity: 0.8;
 }

@@ -1,7 +1,9 @@
 .header__languages {
     margin: 0;
+    margin-bottom: 7px;
     display: flex;
-    list-style: none;
+    list-style-type: none;
+    padding: 0;
     /*align-self: flex-end;
     align-items: right;*/
 }

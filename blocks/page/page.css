@@ -1,5 +1,6 @@
 .page {
     /*min-width: 1280px;*/
+    min-width: 320px;
     width: 100%;
     margin: 0 auto;
     font-family: 'Inter', Arial, sans-serif;
@@ -7,8 +8,8 @@
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     background: #2A2C2F;
-    overflow-x: hidden;
-    overflow-y: auto;
+    /*overflow-x: hidden;
+    overflow-y: auto;*/
     /*display: flex;
     flex-direction: column;
     align-items: center; */

@@ -3,6 +3,7 @@
     margin: 0 auto;
     max-width: 984px;
     margin-top: 92px;
+    box-sizing: border-box;
     /*position: relative;
     display: flex;
     flex-direction: column;

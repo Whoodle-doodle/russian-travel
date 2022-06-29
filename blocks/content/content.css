@@ -1,5 +1,6 @@
 .content {
-    overflow-x: hidden;
+    /*overflow-x: hidden;*/
     margin: 0 auto;
     padding: 0;
+    box-sizing: border-box;
 }

@@ -17,20 +17,18 @@
         margin-bottom: 25px;
     } 
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 568px) {
     .place__paragraph {
         font-size: 1rem;
         /*grid-column: 1;*/
         margin-top: 32px;
-        max-width: 288px;
+        max-width: 100%;
         padding-left: 16px;
     }
 }
-/*
+
 @media screen and (max-width: 320px) {
     .place__paragraph {
-        max-width: 90%;
-        padding-left: 16px;
+        max-width: 288px;
     }  
 }
-*/

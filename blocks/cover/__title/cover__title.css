@@ -7,38 +7,14 @@
     text-align: center;
     font-weight: 900;
     z-index: 2;
-    align-self: end;
-    justify-self: center;
-    grid-column: 1;
-    grid-row: 1;
-    /*margin-top: 245px;*/
-}
-/*
-@media screen and (max-width: 1024px) {
-    .cover__title {
-        margin-top: 19.141vw;
-    }
-}
-*/
-/*
-@media screen and (max-width: 768px) {
-    .cover__title {
-        margin-top: 115px;
-    }
-}
 
-@media screen and (max-width: 767px) {
-    .cover__title {
-        margin-top: 14.974vw;
-    }
+
 }
-*/
-@media screen and (max-width: 560px) {
+@media screen and (max-width: 568px) {
     .cover__title {
         font-size: 32px;
         line-height: 1.09;
         max-width: 250px;
-        /*margin-top: 33px;*/
     }
     
     @media screen and (max-width: 320px) {

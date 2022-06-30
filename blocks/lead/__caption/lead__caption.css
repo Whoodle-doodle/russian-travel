@@ -9,14 +9,15 @@
 }
 @media screen and (max-width: 768px) {
     .lead__caption {
-        max-width: fit-content;
-        margin-left: 24px;
+        width: calc(100% - 24px);
+        padding-left: 24px;
     }
     
 }
 @media screen and (max-width: 320px) {
     .lead__caption {
-        margin-left: 16px;
+        width: calc(100% - 16px);
+        padding-left: 16px;
     }
     
 }

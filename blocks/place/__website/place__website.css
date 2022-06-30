@@ -3,10 +3,7 @@
     padding: 0;
     margin-bottom: 48px;
     align-self: end;
-    /*display: flex;
-    flex-direction: column;*/
 }
-
 @media screen and (max-width: 568px) {
     .place__website {
         display: flex;
@@ -16,7 +13,6 @@
         margin-right: 16px;
     }
 }
-
 @media screen and (max-width: 320px) {
     .place__website {
         margin-bottom: 32px;

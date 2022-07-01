@@ -9,7 +9,7 @@
     text-align: left;
     margin-right: 18px;
     list-style-type: none;
-    transition: 0.3s ease;
+    transition: color 0.3s ease;
 }
 .footer__link:hover {
     opacity: 0.8;
